@@ -1,8 +1,8 @@
 fx_version "cerulean"
 game "gta5"
 
-description "Z HUD"
-version "1.0.0"
+author "Flash-OP"
+description "FLASH HUD"
 lua54 "yes"
 use_fxv2_oal "yes"
 

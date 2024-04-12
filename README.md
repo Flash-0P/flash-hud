@@ -1,10 +1,10 @@
-<h1 align="center"><a href="https://discord.gg/brocode" target="_blank" rel="noopener noreferrer">Z HUD</a></h1>
+<h1 align="center"><a href="https://discord.gg/UqJCjyuV2P" target="_blank" rel="noopener noreferrer">Flash HUD</a></h1>
 
-![Z HUD Preview](https://github.com/TeamBroCode/z-hud/assets/91739770/00b300a2-6494-4b75-b3b1-be4397df174a)
+![Flash HUD Preview](https://discord.gg/UqJCjyuV2P)
 
 ## Overview
 
-Z HUD is a redesigned user interface for the popular flash-hud script that offers more and better functionality along with a few small fixes for HUD bugs.
+Flash HUD is a redesigned user interface for the popular qb-hud script that offers more and better functionality along with a few small fixes for HUD bugs.
 
 ## Addon Features
 

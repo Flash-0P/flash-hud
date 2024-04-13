@@ -1,8 +1,11 @@
 <h1 align="center"><a href="https://discord.gg/UqJCjyuV2P" target="_blank" rel="noopener noreferrer">Flash HUD</a></h1>
 
-![Flash HUD Preview](https://discord.gg/UqJCjyuV2P)
 
 ## Overview
+
+![Uploading Screenshot 2024-04-13 065800.png…]()
+![Screenshot 2024-04-13 065841](https://github.com/Flash-0p/flash-hud/assets/128111282/bceb1b5f-c9c6-4dad-b33c-6650bb6ea8a1)
+
 
 Flash HUD is a redesigned user interface for the popular qb-hud script that offers more and better functionality along with a few small fixes for HUD bugs.
 

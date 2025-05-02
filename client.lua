@@ -1,3 +1,4 @@
+-- fixed
 local QBCore = exports[Config.Core]:GetCoreObject()
 local PlayerData = QBCore.Functions.GetPlayerData()
 local config = Config
